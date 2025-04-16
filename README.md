@@ -1,4 +1,4 @@
-![Ladder]([https://github.com/IMakeThingsForPeople/Ladder-Method/blob/main/Ladder.png?raw=true))
+![Ladder]([https://raw.githubusercontent.com/IMakeThingsForPeople/Ladder-Method/refs/heads/main/Ladder.png?token=GHSAT0AAAAAADCLNOR47VRKNERMOVQQU7LG2AAESYA))
 
 
 
