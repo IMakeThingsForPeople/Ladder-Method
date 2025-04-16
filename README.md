@@ -24,11 +24,11 @@ Ladder is licensed under the <a href="https://mit-license.org/">MIT License</a>.
 <details>
     <summary>For dummies</summary>
     <ol>
-        <li><a href="[https://github.com/IMakeThingsForPeople/Nuketical-Grabber/tree/main/Nuketical%20Grabber]">Download source code zip</a></li>
+        <li><a href="[https://github.com/IMakeThingsForPeople/Ladder-Method/tree/main/Ladder%20Method]">Download source code zip</a></li>
         <li>Extract zip</li>
         <li>Run <code>install_python.bat</code></li>
-        <li>Run the Nuketical Grabber to build your stub by double clicking the <code>Nuketical Grabber</code> file</li>
-        <li>Follow instructions in the builder and your exe will be in a new made folder called <code>dist</code></li>
+        <li>Run the Ladder to use the ladder method by double clicking the <code>Ladder</code> file</li>
+        <li>Follow instructions in the menu and your packs will be laddered ingame
     </ol>
 </details>
 <br>
