@@ -1,4 +1,4 @@
-![Nuketical]([https://raw.githubusercontent.com/IMakeThingsForPeople/Ladder-Method/refs/heads/main/Ladder.png?token=GHSAT0AAAAAADCLNOR47VRKNERMOVQQU7LG2AAESYA))
+![Nuketical]([https://user-images.githubusercontent.com/123840441/215294066-fae087ad-801c-4320-945a-1767ca664a85.png))
 
 
 
